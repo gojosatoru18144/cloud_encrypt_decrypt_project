@@ -1,0 +1,15 @@
+
+.venv/
+__pycache__/
+*.pyc
+.env
+.aws/
+encryption_key.bin
+*.pem
+*.key
+
+# Local password-protected encryption keys
+.secure_cloud_project/
+
+# Local test outputs
+restored_test_file.txt
